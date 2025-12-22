@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a programmer with a passion for Programming, W
 Here are some of the technologies I work with:
 
 Languages: 
-Java , C/C++ , Python
+Java , C/C++ ,JavaScript, Python
 
 Web Development: MERN 
 Front End: HTML, CSS ,JavaScript, ReactJs
