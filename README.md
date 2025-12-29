@@ -1,7 +1,4 @@
-## Hi there 👋
-**Hi there 👋**
-
-**trilochanpatro/trilochanpatro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi there 👋
 Welcome to my GitHub profile! I'm a programmer with a passion for Programming, Web Development , Software Development, AI/ML , open-source projects etc.
 
 Here are some ideas to get you started:
